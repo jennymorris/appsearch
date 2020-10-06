@@ -1,0 +1,13 @@
+{
+  "endpointBase": "https://ba8f973f16f94e3b90278613903c7dfe.ent-search.us-east-1.aws.cloud.es.io",
+  "engineName": "jennyengine",
+
+  "searchKey": "search-n5qfdtris8wkprxif42tt656",
+  "searchFields":  ["feed", "description", "home_page_url", "items", "rss","status","title"],
+  "resultFields": ["feed", "description", "home_page_url", "items", "rss","status","title"],
+  "querySuggestFields": ["title"],
+  "titleField": "title",
+
+  "sortFields": ["title"]
+
+}
